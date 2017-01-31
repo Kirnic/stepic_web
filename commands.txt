@@ -1,0 +1,2 @@
+musql -u root =e "CREATE DATABASE blog"
+GRANT ALL PRIVILEGES ON *.* TO kirnic@localhost IDENTIFIED BY 'Uiqtyooqtr9' WITH GRANT OPTION;
